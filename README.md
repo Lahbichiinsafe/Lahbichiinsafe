@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Insafe 👋
 
-<!--
-**Lahbichiinsafe/Lahbichiinsafe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 L3 Mathematics & Computer Science (Université de Toulouse)  
+🤖 Focus: Machine Learning, NLP, Data  
+🔍 Currently working on intelligent autocomplete systems (IRIT - SMAC team)
 
-Here are some ideas to get you started:
+## 💡 Interests
+- Machine Learning
+- Natural Language Processing
+- Large Language Models
+- Data Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+### 🔹 Intelligent Autocomplete (IRIT Internship)
+- n-gram models with online learning
+- GPT-2 baseline and hybrid approach
+- Evaluation: Top-1 / Top-3
+
+### 🔹 Dance Trajectory Prediction
+- MMPose (YOLOX + HRNet)
+- LSTM / GRU models
+- Best result: **8.01 ± 1.60 px RMSE**
+
+## 🛠️ Tech Stack
+Python • PyTorch • scikit-learn • Transformers • NumPy • pandas
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/insafelahbichi/
+- Email: insafelahbichi@gmail.com
