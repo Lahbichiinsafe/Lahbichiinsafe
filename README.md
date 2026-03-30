@@ -4,7 +4,7 @@
 🤖 Focus: Machine Learning, NLP, Data Science  
 
 🔬 Currently working on intelligent autocomplete systems (IRIT - SMAC team)  
-→ n-gram models, online learning, and evaluation (Top-1 / Top-3)
+→ n-gram models, online learning, LLM, and evaluation.
 
 ---
 
