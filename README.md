@@ -10,17 +10,6 @@
 - Large Language Models
 - Data Science
 
-## 🚀 Projects
-
-### 🔹 Intelligent Autocomplete (IRIT Internship)
-- n-gram models with online learning
-- GPT-2 baseline and hybrid approach
-- Evaluation: Top-1 / Top-3
-
-### 🔹 Dance Trajectory Prediction
-- MMPose (YOLOX + HRNet)
-- LSTM / GRU models
-- Best result: **8.01 ± 1.60 px RMSE**
 
 ## 🛠️ Tech Stack
 Python • PyTorch • scikit-learn • Transformers • NumPy • pandas
