@@ -1,19 +1,48 @@
 # Hi, I'm Insafe 👋
 
 🎓 L3 Mathematics & Computer Science (Université de Toulouse)  
-🤖 Focus: Machine Learning, NLP, Data  
-🔍 Currently working on intelligent autocomplete systems (IRIT - SMAC team)
+🤖 Focus: Machine Learning, NLP, Data Science  
+
+🔬 Currently working on intelligent autocomplete systems (IRIT - SMAC team)  
+→ n-gram models, online learning, and evaluation (Top-1 / Top-3)
+
+---
+
+## 🚀 Highlight Project
+
+### Intelligent Autocomplete System (IRIT)
+- Development of an autocomplete system using n-gram models  
+- Implementation of online learning (incremental updates)  
+- Evaluation using Top-1 and Top-3 accuracy metrics  
+- Comparison with LLM baseline (GPT-2)
+
+---
+
+## 🧠 Experience
+
+- Built and evaluated ML models (GRU, LSTM) for trajectory prediction  
+- Worked with temporal data and sequence modeling  
+- Designed evaluation protocols (RMSE, confidence intervals)  
+- Applied signal processing techniques (smoothing, normalization)  
+
+---
 
 ## 💡 Interests
-- Machine Learning
-- Natural Language Processing
-- Large Language Models
-- Data Science
 
+- Machine Learning  
+- Natural Language Processing  
+- Large Language Models  
+- Data Science  
 
-## 🛠️ Tech Stack
-Python • PyTorch • scikit-learn • Transformers • NumPy • pandas
+---
+
+## 🛠 Tech Stack
+
+Python • PyTorch • scikit-learn • Transformers • NumPy • pandas  
+
+---
 
 ## 📫 Contact
-- LinkedIn: https://www.linkedin.com/in/insafelahbichi/
-- Email: insafelahbichi@gmail.com
+
+- LinkedIn: https://www.linkedin.com/in/insafelahbichi/  
+- Email: insafelahbichi@gmail.com  
