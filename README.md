@@ -1,6 +1,7 @@
 # Hi, I'm Insafe 👋
 
 🎓 L3 Mathematics & Computer Science (Université de Toulouse)  
+💼 Looking for a Machine Learning / Data Science apprenticeship (alternance)
 🤖 Focus: Machine Learning, NLP, Data Science  
 
 🔬 Currently working on intelligent autocomplete systems (IRIT - SMAC team)  
