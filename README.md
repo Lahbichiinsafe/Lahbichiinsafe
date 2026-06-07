@@ -5,7 +5,6 @@
 💼 Looking for a Machine Learning / Data Science apprenticeship (alternance)
 
 🔬 Currently working on intelligent autocomplete systems (IRIT - SMAC team)  
-→ n-gram models, online learning, LLM, and evaluation.
 
 ---
 
