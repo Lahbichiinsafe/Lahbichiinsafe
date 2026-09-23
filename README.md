@@ -1,48 +1,67 @@
-# Hi, I'm Insafe 👋
+<div align="center">
 
-🎓 L3 Mathematics & Computer Science (Université de Toulouse)  
-🤖 Focus: Machine Learning, NLP, Data Science  
-💼 Looking for a Machine Learning / Data Science apprenticeship (alternance)
+<!-- ANIMATED BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:A855F7&height=240&section=header&text=Insafe%20Lahbichi&fontSize=55&fontColor=ffffff&animation=twinkling" />
 
-🔬 Currently working on intelligent autocomplete systems (IRIT - SMAC team)  
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Data+Engineer+BI+Apprentice+%40+BNP+Paribas;Master+MIAGE+SBI+%E2%80%93+Paris+1+Panth%C3%A9on-Sorbonne;Data+Engineering+%E2%80%A2+BI+%E2%80%A2+Machine+Learning+%E2%80%A2+NLP" />
 
----
-
-## 🚀 Highlight Project
-
-### Intelligent Autocomplete System (IRIT)
-- Development of an autocomplete system using n-gram models  
-- Implementation of online learning (incremental updates)  
-- Evaluation using Top-1 and Top-3 accuracy metrics  
-- Comparison with LLM baseline (GPT-2)
+</div>
 
 ---
 
-## 🧠 Experience
+## 👩‍💻 About me
 
-- Built and evaluated ML models (GRU, LSTM) for trajectory prediction  
-- Worked with temporal data and sequence modeling  
-- Designed evaluation protocols (RMSE, confidence intervals)  
-- Applied signal processing techniques (smoothing, normalization)  
+- 🎓 Master MIAGE – Sustainable Business Informatics @ **Paris 1 Panthéon-Sorbonne**
+- 💼 Data Engineer BI apprentice @ **BNP Paribas** (BCEF IT)
+- 🧮 BSc Mathematics & Computer Science – Université de Toulouse
+- 🏅 Dataiku Core Designer certified
 
 ---
 
-## 💡 Interests
+## 🚀 Highlight Projects
 
-- Machine Learning  
-- Natural Language Processing  
-- Large Language Models  
-- Data Science  
+### 💳 [Fraud Detection Pipeline](https://github.com/Lahbichiinsafe/fraud-detection-banking)
+- End-to-end pipeline on **284K banking transactions**
+- PostgreSQL star schema data warehouse + Python ETL (pandas, SQLAlchemy)
+- Advanced SQL: window functions, CTEs, Z-score anomaly detection
+- XGBoost + SMOTE → **ROC-AUC 0.98**, 83% recall
+- Power BI dashboard with business impact estimation
+
+### ✍️ Intelligent Autocomplete System (IRIT – SMAC team)
+- Autocomplete based on n-gram models with online learning
+- Evaluation with Top-1 / Top-3 accuracy
+- Benchmark against an LLM baseline (GPT-2)
+
+### 📈 Trajectory Prediction
+- GRU / LSTM models on temporal data
+- Evaluation protocol (RMSE, confidence intervals) and signal processing
 
 ---
 
 ## 🛠 Tech Stack
 
-Python • PyTorch • scikit-learn • Transformers • NumPy • pandas  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,postgres,react,js,bash,linux,git,github,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Teradata-F37440?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Dataiku-2AB1AC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=black" />
+</p>
 
 ---
 
 ## 📫 Contact
 
-- LinkedIn: https://www.linkedin.com/in/insafelahbichi/  
-- Email: insafelahbichi@gmail.com  
+<p align="center">
+  <a href="https://www.linkedin.com/in/insafelahbichi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:insafelahbichi@gmail.com"><img src="https://img.shields.io/badge/Email-A855F7?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:A855F7&height=120&section=footer" width="100%" />
