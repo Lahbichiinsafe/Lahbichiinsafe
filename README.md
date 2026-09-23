@@ -15,7 +15,6 @@
 - 🎓 Master MIAGE – Sustainable Business Informatics @ **Paris 1 Panthéon-Sorbonne**
 - 💼 Data Engineer BI apprentice @ **BNP Paribas** (BCEF IT)
 - 🧮 BSc Mathematics & Computer Science – Université de Toulouse
-- 🏅 Dataiku Core Designer certified
 
 ---
 
